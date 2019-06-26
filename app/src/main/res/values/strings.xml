@@ -1,0 +1,22 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_name">MCAM_App</string>
+    <string name="mcam_captial">MCAM</string>
+    <string name="moorhead_community_access_media">Moorhead Community Access Media</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="linkStr"><a href="https://videoplayer.telvue.com/player/Wd7oL95x8J446C8hqX_IyR7nU1C5Vrlf/stream/515?fullscreen=false&amp;showtabssearch=true&amp;autostart=false">Live Stream Link</a></string>
+    <string name="link">Links</string>
+    <string name="government">Government</string>
+    <string name="programming">Programming</string>
+    <string name="churchLink"><a href="http://www.triumphlbc.org/">Triumph Lutheran Bretheran Church</a></string>
+    <string name="cityLink"><a href="http://www.ci.moorhead.mn.us/">City of Moorhead</a></string>
+    <string name="countyLink"><a href="https://claycountymn.gov/">Clay County</a></string>
+    <string name="pubSerLink"><a href="https://www.youtube.com/channel/UCdVqWfEjMMN-zP-qAibPMJQ">MPS Youtube Page</a></string>
+    <string name="moorheadLink"><a href="http://www.mpsutility.com/">Moorhead Public Service</a></string>
+    <string name="membership">Membership</string>
+    <string name="about">About</string>
+</resources>
